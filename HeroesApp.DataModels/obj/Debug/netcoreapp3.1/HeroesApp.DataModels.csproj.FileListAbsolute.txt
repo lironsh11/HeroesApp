@@ -1,0 +1,8 @@
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\bin\Debug\netcoreapp3.1\HeroesApp.DataModels.deps.json
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\bin\Debug\netcoreapp3.1\HeroesApp.DataModels.dll
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\bin\Debug\netcoreapp3.1\HeroesApp.DataModels.pdb
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\obj\Debug\netcoreapp3.1\HeroesApp.DataModels.csprojAssemblyReference.cache
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\obj\Debug\netcoreapp3.1\HeroesApp.DataModels.AssemblyInfoInputs.cache
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\obj\Debug\netcoreapp3.1\HeroesApp.DataModels.AssemblyInfo.cs
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\obj\Debug\netcoreapp3.1\HeroesApp.DataModels.dll
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataModels\obj\Debug\netcoreapp3.1\HeroesApp.DataModels.pdb

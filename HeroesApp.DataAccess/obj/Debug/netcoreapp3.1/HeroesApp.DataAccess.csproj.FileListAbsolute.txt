@@ -1,0 +1,11 @@
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\bin\Debug\netcoreapp3.1\HeroesApp.DataAccess.deps.json
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\bin\Debug\netcoreapp3.1\HeroesApp.DataAccess.dll
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\obj\Debug\netcoreapp3.1\HeroesApp.DataAccess.csprojAssemblyReference.cache
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\obj\Debug\netcoreapp3.1\HeroesApp.DataAccess.AssemblyInfoInputs.cache
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\obj\Debug\netcoreapp3.1\HeroesApp.DataAccess.AssemblyInfo.cs
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\bin\Debug\netcoreapp3.1\HeroesApp.DataAccess.pdb
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\bin\Debug\netcoreapp3.1\HeroesApp.DataModels.dll
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\bin\Debug\netcoreapp3.1\HeroesApp.DataModels.pdb
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\obj\Debug\netcoreapp3.1\HeroesApp.DataAccess.csproj.CopyComplete
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\obj\Debug\netcoreapp3.1\HeroesApp.DataAccess.dll
+D:\לימודים\הכשרה דוטנט קור\Heroes\HeroesApp.DataAccess\obj\Debug\netcoreapp3.1\HeroesApp.DataAccess.pdb
